@@ -1,0 +1,4 @@
+/home/sai-pher/work/school/OS_class/Labs/lab_7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sai-pher/work/school/OS_class/Labs/lab_7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sai-pher/work/school/OS_class/Labs/lab_7/cmake-build-debug/CMakeFiles/lab_7.dir
+/home/sai-pher/work/school/OS_class/Labs/lab_7/cmake-build-debug/CMakeFiles/test.dir
