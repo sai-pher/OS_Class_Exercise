@@ -1,0 +1,6 @@
+path /bin
+cd ..
+ls
+echo hello world > test_out.txt
+echo wish away&ls&pwd&echo wish granted > test_out2.txt
+exit
