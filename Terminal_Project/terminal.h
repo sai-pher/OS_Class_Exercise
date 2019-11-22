@@ -78,6 +78,8 @@ char **split(char *string, char del) {
         if (string[k] == del) {
             size += 1;
         }
+        if (string[k] == '>')
+            FLGS->RDRT = 1;
     }
 
     char **arr = calloc(size, sizeof(char *));

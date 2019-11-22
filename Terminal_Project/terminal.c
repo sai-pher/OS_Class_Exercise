@@ -64,7 +64,7 @@ int main(int argc, char *argv[]) {
         while (1) {
             RESET_FLAGS
 
-            printf("~> ");
+            printf("wish> ");
 
             buf = get_line(buf);
 
